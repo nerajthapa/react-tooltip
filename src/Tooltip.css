@@ -1,0 +1,26 @@
+.tooltip {
+  position: absolute;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #333;
+  font-size: 14px;
+}
+  
+  .tooltip--top {
+    top: 280px;
+  }
+  
+  .tooltip--bottom {
+    bottom: 280px;
+  }
+  
+  .tooltip--left {
+    left: 450px;
+  }
+  
+  .tooltip--right {
+    right: 450px;
+  }
+  
